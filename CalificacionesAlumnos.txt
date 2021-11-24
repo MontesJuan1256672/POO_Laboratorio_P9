@@ -1,0 +1,45 @@
+Nombre: Juan
+
+Matricula: 1256672
+
+Calificacion 1: 67
+Calificacion 2: 87
+Calificacion 3: 97
+Calificacion 4: 100
+Calificacion 5: 78
+Calificacion 6: 99
+Calificacion 7: 87
+Promedio: 87.85714285714286
+__________________________________
+
+
+Nombre: Manuel
+
+Matricula: 1234567
+
+Calificacion 1: 58
+Calificacion 2: 67
+Calificacion 3: 98
+Calificacion 4: 78
+Calificacion 5: 99
+Calificacion 6: 69
+Calificacion 7: 77
+Promedio: 78.0
+__________________________________
+
+
+Nombre: Xavier
+
+Matricula: 2345678
+
+Calificacion 1: 100
+Calificacion 2: 86
+Calificacion 3: 81
+Calificacion 4: 91
+Calificacion 5: 82
+Calificacion 6: 74
+Calificacion 7: 66
+Promedio: 82.85714285714286
+__________________________________
+
+
